@@ -4,7 +4,7 @@ PizzaHackers Rules
 General Rules
 -------------
 
-1. PizzaHackers will have __Meetups__ every __Saturday__, and a __Hackathon__ on ony one __Wednesday of the month decided by common consesus.
+1. PizzaHackers will have __Meetups__ every __Saturday__, and a __Hackathon__ on ony one __Wednesday__ of the month decided by common consesus.
 
 2. Everyone from the college will be allowed to attend PizzaHackers events.
 
